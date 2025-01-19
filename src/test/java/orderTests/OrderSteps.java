@@ -1,3 +1,7 @@
+package orderTests;
+
+import courierTests.CourierSteps;
+import courierTests.CourierTestData;
 import io.qameta.allure.Step;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;

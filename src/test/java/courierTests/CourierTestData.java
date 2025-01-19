@@ -1,3 +1,5 @@
+package courierTests;
+
 import org.example.Courier;
 
 public class CourierTestData {
